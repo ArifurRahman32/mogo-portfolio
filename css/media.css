@@ -1,0 +1,507 @@
+@media (min-width:992px) and (max-width:1199px){
+   
+    .banner-text h1 {
+
+	font-size: 125px;
+
+}
+    
+}
+
+
+
+
+
+@media (min-width:768px) and (max-width:991.98px){
+
+
+.navbar-brand {
+
+	padding-left: 17px;
+}
+.navbar-toggler i{
+    color: #fff;
+    font-size: 28px;
+}
+button:focus {
+	outline:none;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    text-align: center;
+	background: #66cccc;
+}
+.navbar-nav .nav-link.active:before{
+      width: 10%;  
+    }
+
+.navbar-nav .nav-item{
+    padding: 0px 0px;  
+}
+.navbar-nav .nav-link::before {
+    left: 50%;
+    transform: translateX(-50%);
+}
+.navbar-nav .nav-link:hover:before{
+    width: 10%;
+ }
+
+/*-----banner part------------*/
+#banner {
+    padding-top: 129px;
+	padding-bottom: 141px;
+    margin-bottom: 60px;
+}
+.banner-text h3 {
+	font-size: 54px;
+	padding-bottom: 10px;
+}
+.banner-text h1 {
+	font-size: 102px;
+	padding-bottom: 79px;
+	line-height: 88px;
+}
+.banner-text h1::after {
+    bottom: 25px;
+}
+.banner-text h1::after {
+    bottom: 36px;
+}
+#about {
+	padding-bottom: 75px;
+}
+.section-top {
+	margin-bottom: 50px;
+}
+#counter {
+
+	margin-bottom: 75px;
+}
+
+.service-text h4 {
+
+	padding-top: 18px;
+}
+.service-item {
+	padding-bottom: 45px;
+}
+.f-text p {
+
+	font-size: 20px;
+
+}
+.f-icon i {
+	font-size: 62px;
+
+	padding: 30px 30px;
+	
+}
+    .left{
+        z-index: 99;
+    }
+    .right{
+        z-index: 99;
+    }
+#feedback {
+	margin-bottom: 75px;
+
+}
+#team {
+	margin-bottom: 75px;
+}
+.blog h3 {
+	
+	padding-top: 40px;
+	
+}
+.footer-right h3 {
+
+	padding-top: 40px;
+	
+}
+.footer-part:after{
+
+    bottom:-45px;
+     
+}
+#footer {
+
+	padding-bottom: 40px;
+	
+}
+#bottom {
+
+	padding-bottom: 3px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+@media (min-width:576px) and (max-width:767.98px){
+
+.navbar {
+
+	padding: 8px 0px;
+}
+.navbar-brand {
+
+	padding-left: 17px;
+}
+.navbar-toggler i{
+    color: #fff;
+    font-size: 25px;
+}
+button:focus {
+	outline:none;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    text-align: center;
+	background: #66cccc;
+}
+.navbar-nav .nav-link.active:before{
+      width: 10%;  
+    }
+
+.navbar-nav .nav-item{
+    padding: 0px 0px;  
+}
+.navbar-nav .nav-link::before {
+    left: 50%;
+    transform: translateX(-50%);
+}
+.navbar-nav .nav-link:hover:before{
+    width: 10%;
+ }
+
+/*-----banner part------------*/
+#banner {
+    padding-top: 129px;
+	padding-bottom: 141px;
+    margin-bottom: 60px;
+}
+.banner-text h3 {
+	font-size: 41px;
+	padding-bottom: 7px;
+}
+.banner-text h1 {
+	font-size: 78px;
+	padding-bottom: 59px;
+	line-height: 72px;
+}
+.banner-text h1::after {
+    bottom: 25px;
+}
+
+/*--------------about-------------*/
+
+.section-top {
+	margin-bottom: 18px;
+}
+.about-img {
+	margin-bottom: 30px;
+}
+#about {
+	padding-bottom: 60px;
+}
+#counter {
+
+	margin-bottom: 60px;
+}
+.service-item {
+	padding-bottom: 45px;
+	text-align: center;
+}
+.service-text h4 {
+    padding-top: 17px;
+}
+    .f-icon{
+        text-align: center;
+    }    
+.f-icon i {
+	margin-bottom: 20px;
+}
+    .left{
+        z-index: 9;
+    }
+     .right{
+        z-index: 9;
+    }
+.f-text p {
+
+	font-size: 20px;
+	
+}
+#feedback {
+	margin-bottom: 90px;
+	
+}
+.team-item {
+
+	margin-top: 20px;
+}
+
+.service-item {
+	
+	text-align: left;
+}
+#team {
+	margin-bottom: 60px;
+}
+.section-top p {
+	
+	padding-bottom: 29px;
+}
+.blog{
+    text-align: center;
+}
+.blog h3 {
+   font-size: 22px;
+    padding-top: 33px;
+	padding-bottom: 21px;
+}
+.blog-img {
+	margin-bottom: 18px;
+}
+.blog-text p {
+    padding-bottom: 16px;
+}
+.footer-right{
+    text-align: center
+}
+.insta {
+	padding-bottom: 0px;
+}
+.footer-right h3 {
+    font-size: 19px;
+    width: 100%;
+}
+.more a {
+   width: 100%;
+text-align: center;
+    padding-top: 14px;
+}
+    
+ #footer {
+    padding-top: 40px;
+	padding-bottom: 40px;
+	
+}
+.footer-part::after {
+
+	bottom: -33px;
+	
+}   
+#work {
+	margin-bottom: 60px;
+}
+
+
+
+
+
+
+}
+
+
+@media (max-width:575.98px){
+   
+    .navbar {
+
+	padding: 8px 0px;
+}
+.navbar-brand {
+
+	padding-left: 17px;
+}
+.navbar-toggler i{
+    color: #fff;
+    font-size: 25px;
+}
+button:focus {
+	outline:none;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    text-align: center;
+	background: #66cccc;
+}
+
+.navbar-nav .nav-item{
+    padding: 0px 0px;  
+}
+.navbar-nav .nav-link::before {
+    left: 50%;
+    transform: translateX(-50%);
+}
+.navbar-nav .nav-link:hover:before{
+    width: 10%;
+ }
+    .navbar-nav .nav-link.active:before{
+      width: 10%;  
+    }
+
+/*-----banner part------------*/
+#banner {
+    padding-top: 129px;
+	padding-bottom: 141px;
+    margin-bottom: 60px;
+}
+.banner-text h3 {
+	font-size: 29px;
+    padding-bottom: 8px;
+}
+.banner-text h1 {
+    font-size: 50px;
+    padding-bottom: 45px;
+	line-height: 57px;
+}
+.banner-text h1::after {
+    bottom: 25px;
+}
+/*--------------about part-------*/
+#about {
+	padding-bottom: 60px;
+}
+.section-top {
+	margin-bottom: 40px;
+}
+.section-top h2 {
+   font-size: 25px;
+   padding-bottom: 27px;
+}
+.section-top h4 {
+	font-size: 22px;
+    padding-bottom: 0px;
+}
+.section-top h2::after {
+    bottom: 10px;
+}
+.section-top p {
+   font-size: 12px;
+}
+.about-img {
+   margin-bottom: 14px;
+}
+
+/*--------------counter part-------*/
+#counter {
+   margin-bottom: 60px;
+}
+/*--------------service part-------*/
+.service-item {
+	padding-bottom: 45px;
+	text-align: center;
+}
+.service-text h4 {
+    padding-top: 17px;
+}
+/*--------------feedback part-------*/
+.f-text p {
+   font-size: 16px;
+}
+.f-icon i {
+
+	display: none;
+}
+.f-text h4 {
+	font-size: 19px;
+    text-align: right;
+}
+.f-text h4::before {
+
+	right: 82px;
+	background: #ff9999;
+}
+    .left{
+        z-index: 99;
+    }
+    .right{
+        z-index: 99;
+    }
+#feedback {
+	margin-bottom: 60px;
+
+}
+/*--------------team part-------*/
+#team {
+	margin-bottom: 60px;
+}
+#work {
+	margin-bottom: 60px;
+}
+/*--------------footer part-------*/
+.follow a {
+	font-size: 14px;
+	padding-right: 5px;
+	
+}
+.follow p {
+   font-size: 16px;
+}
+.sub button {
+	padding: 10px 15px;
+
+} 
+.blog{
+    text-align: center;
+}
+.blog h3 {
+   font-size: 22px;
+    padding-top: 33px;
+	padding-bottom: 21px;
+}
+.blog-img {
+	margin-bottom: 18px;
+}
+.blog-text p {
+    padding-bottom: 16px;
+}
+.footer-right{
+    text-align: center
+}
+.insta {
+	padding-bottom: 0px;
+}
+.footer-right h3 {
+    font-size: 19px;
+    width: 100%;
+}
+.more a {
+   width: 100%;
+text-align: center;
+    padding-top: 14px;
+}
+#footer {
+    padding-top: 40px;
+	padding-bottom: 40px;
+	
+}
+.footer-part::after {
+
+	bottom: -33px;
+	
+}
+.last p {
+
+	font-size: 12px;
+
+}
+#bottom {
+
+	padding-top: 13px;
+	padding-bottom: 6px;
+}
+/*--------------back- top part-------*/
+.back-top i {
+    padding: 10px 10px;
+	border-radius: 5px;
+	font-size: 14px;
+}
+/*--------------about part-------*/
+}
